@@ -4,4 +4,4 @@
 123
 显示
 这个
-内容
+内容consloe.log('show')
