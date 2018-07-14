@@ -1,5 +1,1 @@
-# test-1z
-111测试--234
-显示
-这个
-内容
+consloe.log('show')
